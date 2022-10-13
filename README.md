@@ -1,4 +1,3 @@
-## Testa-3.5.1 (Cross site scripting)
 ```diff
 
 @@Testa 3.5.1 Online Test Management System (Cross Site Scripting)@@
